@@ -17,4 +17,4 @@ Whatsapp clone by VRA99.
 <b>3º `npm start` or `yarn start`.</b>
 
 # Done by Victor:
-![Demostration](./front/src/Assets/gif.gif)
+![Demostration](./src/Assets/gif.gif)
